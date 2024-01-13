@@ -1,0 +1,6 @@
+[submodule "baile-flask-backend"]
+	path = baile-flask-backend
+	url = https://github.com/Chr1sDr01d/baile-flask-backend.git
+[submodule "baile-react-frontend"]
+	path = baile-react-frontend
+	url = https://github.com/Chr1sDr01d/baile-react-frontend.git
